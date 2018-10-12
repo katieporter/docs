@@ -31,7 +31,9 @@ When viewing the API keys page, you will see a list of your current API keys alo
 **Action** - Actions you can perform on your API keys, such as editing or deleting the key.
 
 <call-out>
- There is a limit of 100 API Keys per account.
+
+There is a limit of 100 API Keys per account.
+
 </call-out>
 
 ## 	Creating an API key
@@ -50,7 +52,9 @@ You will only be shown your API key one time. Please store it somewhere safe as 
 </call-out>
 
 <call-out>
- There is a limit of 100 API Keys per account.
+
+There is a limit of 100 API Keys per account.
+
 </call-out>
 
  ### 	API key permissions
@@ -101,8 +105,4 @@ Once you delete a key, it can no longer be used to access SendGrid’s services.
 
 </call-out>
 
-<<<<<<< HEAD
-Click the action menu in the same row as the key you want to inactivate. Select **Delete** followed by **Confirm**. This will delete the key permanently, making it inactive. Any subsequent API calls using this deleted API key will be rejected by SendGrid.
-=======
 Click the action menu in the same row as the key you want to delete. Select **Delete**. This will delete the key permanently, making it inactive. Any subsequent API calls using this deleted API key will be rejected by SendGrid.
->>>>>>> origin
